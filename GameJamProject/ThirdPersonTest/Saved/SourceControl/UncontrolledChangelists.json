@@ -32,7 +32,10 @@
 				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/GQ/B2QYLFH9W1H6S1XLEEUO5Z.uasset",
 				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/QQ/NQLKNBJ97XYXM7Z7D4KPHJ.uasset",
 				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Animations/Punching.uasset",
-				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/5W/IGP9QTZ9QU7N45LSRS2ZE5.uasset"
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/5W/IGP9QTZ9QU7N45LSRS2ZE5.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Enemies/AI/AIC_Enemy_Base.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Enemies/AI/Tasks/BTT_DefaultAttack.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Enemies/AI/Tasks/BTT_FocusTarget.uasset"
 			]
 		}
 	]
