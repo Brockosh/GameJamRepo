@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Player/BP_Player.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Enemies/BP_Enemy_Base.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Characters/ImportedCharacters/Ch08_1001_Diffuse.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Characters/ImportedCharacters/Ch08_1001_Glossiness.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Characters/ImportedCharacters/Ch08_1001_Normal.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Characters/ImportedCharacters/Ch08_1001_Specular.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Characters/ImportedCharacters/Ch08_1002_Diffuse.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Characters/ImportedCharacters/Ch08_1002_Glossiness.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Characters/ImportedCharacters/Ch08_1002_Normal.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Characters/ImportedCharacters/Ch08_1002_Specular.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Characters/ImportedCharacters/Ch08_1003_Diffuse.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Characters/ImportedCharacters/Ch08_1003_Normal.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Characters/ImportedCharacters/Ch08_body.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Characters/ImportedCharacters/Ch08_body1.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Characters/ImportedCharacters/Ch08_hair.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Characters/ImportedCharacters/Ch08_nonPBR.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Characters/ImportedCharacters/Ch08_nonPBR_PhysicsAsset.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Characters/ImportedCharacters/Ch08_nonPBR_Skeleton.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Animations/Montage_Punch.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Enemies/AI/BT_Enemy_Base.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Enemies/AI/BB_Enemy_Base.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/GQ/B2QYLFH9W1H6S1XLEEUO5Z.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/QQ/NQLKNBJ97XYXM7Z7D4KPHJ.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/Animations/Punching.uasset",
+				"C:/Users/User/Documents/GitHub/GameJamRepo/GameJamProject/ThirdPersonTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/5W/IGP9QTZ9QU7N45LSRS2ZE5.uasset"
+			]
+		}
+	]
+}
